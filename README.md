@@ -1,1 +1,1 @@
-# Keras Study
+# 케라스 스터디
