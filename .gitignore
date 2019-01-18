@@ -3,6 +3,6 @@ env/
 
 \.idea/
 
-utils/datasets/__pycache__/
+CNN/utils/datasets/__pycache__/
 
-utils/models/__pycache__/
+CNN/utils/models/__pycache__/
